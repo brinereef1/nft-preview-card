@@ -12,7 +12,7 @@ body {
 main {
     display: flex;
     flex-direction: column;
-    max-width: 250px;
+    max-width: 300px;
     padding: 1rem;
     background: hsl(216, 50%, 16%);
     border-radius: 15px;
@@ -71,7 +71,7 @@ main {
 
 .creator img {
     max-width: 40px;
-    margin-right: 0.5rem;
+    margin-right: 1rem;
     border-radius: 50%;
     border: 1px solid white;
 }
